@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Lyra Pham!  
+# 👋 Hey there, I’m Lyra! 
 
 ### 🚀 About Me  
 - 🧠 **Data Enthusiast | Computer Instructor | Software Developer** 
